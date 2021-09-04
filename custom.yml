@@ -18,3 +18,8 @@
   strings:
     - ":fodase:"
   location: "fodase.png"
+- name: pikachu
+  strings:
+    - ":pikachu:"
+    - ":oo"
+  location: "pikachu.png"
