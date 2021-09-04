@@ -5,28 +5,22 @@
 - name: doggo
   strings:
     - ":doggo:"
+    - ":doguinho:"
   location: "doggo.png"
 - name: picapau
   strings:
     - ":picapau:"
   location: "picapau.png"
-- name: pepe_inconformado
-  strings:
-    - ":pepe_inconformado:"
-  location: "pepe_inconformado.png"
-- name: fodase
-  strings:
-    - ":fodase:"
-  location: "fodase.png"
 - name: pikachu
   strings:
     - ":pikachu:"
   location: "pikachu.png"
 - name: facepalm
   strings:
-    - ":facepalm:"
-  location: "facepalm.png"
-- name: pepothink
+    - ":villager:"
+  location: "villager.png"
+- name: emerald
   strings:
-    - ":pepothink:"
-  location: "pepothink.png"
+    - ":emerald:"
+  location: "emerald.png"
+
