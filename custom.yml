@@ -22,3 +22,7 @@
   strings:
     - ":pikachu:"
   location: "pikachu.png"
+- name: facepalm
+  strings:
+    - ":facepalm:"
+  location: "facepalm.png"
