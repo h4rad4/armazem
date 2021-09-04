@@ -26,3 +26,7 @@
   strings:
     - ":facepalm:"
   location: "facepalm.png"
+- name: pepothink
+  strings:
+    - ":pepothink:"
+  location: "pepothink.png"
