@@ -21,5 +21,4 @@
 - name: pikachu
   strings:
     - ":pikachu:"
-    - ":oo"
   location: "pikachu.png"
