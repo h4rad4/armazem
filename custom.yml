@@ -14,7 +14,7 @@
   strings:
     - ":pepe_inconformado:"
   location: "pepe_inconformado.png"
-  - name: fodase
+- name: fodase
   strings:
     - ":fodase:"
   location: "fodase.png"
