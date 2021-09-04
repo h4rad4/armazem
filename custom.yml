@@ -2,6 +2,10 @@
   strings:
     - ":lansaste:"
   location: "lansaste.png"
+- name: pepothink
+  strings:
+    - ":pepothink:"
+  location: "pepothink.png"
 - name: doggo
   strings:
     - ":doggo:"
