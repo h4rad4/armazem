@@ -1,0 +1,16 @@
+- name: lansaste
+  strings:
+    - ":lansaste:"
+  location: "lansaste.png"
+- name: doggo
+  strings:
+    - ":doggo:"
+  location: "doggo.png"
+- name: picapau
+  strings:
+    - ":picapau:"
+  location: "picapau.png"
+- name: pepe_inconformado
+  strings:
+    - ":pepe_inconformado:"
+  location: "pepe_inconformado.png"
