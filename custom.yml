@@ -2,6 +2,10 @@
   strings:
     - ":lansaste:"
   location: "lansaste.png"
+- name: pepothink
+  strings:
+    - ":pepothink:"
+  location: "pepothink.png"
 - name: doggo
   strings:
     - ":doggo:"
@@ -15,7 +19,93 @@
   strings:
     - ":pikachu:"
   location: "pikachu.png"
-- name: facepalm
+- name: bulba
+  strings:
+    - ":bulba:"
+  location: "bulba.png"
+- name: capture
+  strings:
+    - ":capture:"
+  location: "capture.png"
+- name: detetive
+  strings:
+    - ":detetive:"
+  location: "detetive.png"
+- name: doundhoom
+  strings:
+    - ":doundhoom:"
+    - ":houdoom:"
+  location: "doundhoom.png"
+- name: gengarfofo
+  strings:
+    - ":gengarfofo:"
+    - ":gengar:"
+  location: "gengarfofo.png"
+- name: grimchamp
+  strings:
+    - ":grimchamp:"
+    - ":grimmer:"
+  location: "grimchamp.png"
+- name: growthink
+  strings:
+    - ":growthink:"
+    - ":growlith:"
+  location: "growthink.png"
+- name: jigglyputo
+  strings:
+    - ":jigglyputo:"
+    - ":jigglypuff:"
+  location: "jigglyputo.png"
+- name: jynxkiss
+  strings:
+    - ":jynxkiss:"
+    - ":jinx:"
+  location: "jynxkiss.png"
+- name: lol
+  strings:
+    - ":lol:"
+  location: "lol.png"
+- name: mewlol
+  strings:
+    - ":mewlol:"
+    - ":mew:"
+  location: "mewlol.png"
+- name: mimed
+  strings:
+    - ":mimed:"
+    - ":mime:"
+  location: "mimed.png"
+- name: pikatiro
+  strings:
+    - ":pikatiro:"
+  location: "pikatiro.png"
+- name: pikatrans
+  strings:
+    - ":pikatrans:"
+  location: "pikatrans.png"
+- name: pokeball
+  strings:
+    - ":pokeball:"
+  location: "pokeball.png"
+- name: psy
+  strings:
+    - ":psy:"
+    - ":psyduck:"
+  location: "psy.png"
+- name: snorlax
+  strings:
+    - ":snorlax:"
+  location: "snorlax.png"
+- name: squirtcool
+  strings:
+    - ":squirtcool:"
+    - ":squirtle:"
+  location: "squirtcool.png"
+- name: tnt
+  strings:
+    - ":tnt:"
+  location: "tnt.png"
+- name: villager
   strings:
     - ":villager:"
   location: "villager.png"
@@ -23,4 +113,3 @@
   strings:
     - ":emerald:"
   location: "emerald.png"
-

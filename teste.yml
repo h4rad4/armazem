@@ -1,0 +1,4 @@
+- name: testepedro
+  strings:
+    - ":testepedro:"
+  location: "testepedro.png"
