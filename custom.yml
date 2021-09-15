@@ -118,7 +118,7 @@
     - ":ox:"
     - ":corno:"
   location: "ox.png"
-- name: testepedro
+- name: kirby
   strings:
-    - ":testepedro:"
-  location: "testepedro.gif"
+    - ":kirby:"
+  location: "kirby.png"
