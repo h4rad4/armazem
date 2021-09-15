@@ -113,3 +113,8 @@
   strings:
     - ":emerald:"
   location: "emerald.png"
+- name: ox
+  strings:
+    - ":ox:"
+    - ":corno:"
+  location: "ox.png"
