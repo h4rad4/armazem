@@ -122,3 +122,9 @@
   strings:
     - ":kirby:"
   location: "kirby.png"
+- name: devil
+  strings:
+    - ":devil:"
+    - ">:)"
+    - ":smiling_imp:"
+  location: "devil.png"
