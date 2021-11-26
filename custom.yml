@@ -128,15 +128,3 @@
     - ">:)"
     - ":smiling_imp:"
   location: "devil.png"
-- name: babuino
-  strings:
-    - ":babuino:"
-    - ":macaco:"
-    - ":mamaco:"
-    - ":monkey_face:"
-  location: "monkey.png"
-- name: babumds
-  strings:
-    - ":mds:"
-    - ":see_no_evil:"
-  location: "mds.png"
