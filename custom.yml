@@ -137,7 +137,9 @@
   location: "monkey.png"
 - name: babunossa
   strings:
-    - ":x"
+    - ":xiu:
+    - ":calei:"
+    - ":x:"
     - "x:"
     - ":speak_no_evil:"
   location: "babux.png"
