@@ -135,12 +135,6 @@
     - ":mamaco:"
     - ":monkey_face:"
   location: "monkey.png"
-- name: babunossa
-  strings:
-    - ":xiu:
-    - ":calei:"
-    - "x:"
-  location: "babux.png"
 - name: babumds
   strings:
     - ":mds:"
