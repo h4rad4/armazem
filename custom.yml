@@ -128,3 +128,15 @@
     - ">:)"
     - ":smiling_imp:"
   location: "devil.png"
+- name: flushed
+  strings:
+    - ":flushed:"
+  location: "flushed.png"
+- name: ban
+  strings:
+    - ":ban:"
+  location: "ban.png"
+- name: clown
+  strings:
+    - ":clown:"
+  location: "clownn.png"
