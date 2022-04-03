@@ -140,7 +140,7 @@
   strings:
     - ":clown:"
   location: "clownn.png"
-  - name: lgbt
+- name: lgbt
   strings:
     - ":lgbt:"
   location: "lgbt.png"
