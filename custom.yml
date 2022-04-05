@@ -144,3 +144,7 @@
   strings:
     - ":lgbt:"
   location: "lgbt.png"
+- name: lgtv
+  strings:
+    - ":lgtv:"
+  location: "lgtv.png"
