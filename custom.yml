@@ -152,3 +152,7 @@
   strings:
     - ":knife:"
   location: "knive.png"
+- name: pensive
+  strings:
+    - ":pensive:"
+  location: "pensive.png"
