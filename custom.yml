@@ -156,3 +156,7 @@
   strings:
     - ":pensive:"
   location: "pensive.png"
+- name: rat
+  strings:
+    - ":rat:"
+  location: "rat.png"
