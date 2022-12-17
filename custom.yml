@@ -160,3 +160,7 @@
   strings:
     - ":rat:"
   location: "rat.png"
+  - name: smile
+  strings:
+    - ":D"
+  location: "smile.png"
