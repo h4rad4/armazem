@@ -148,3 +148,19 @@
   strings:
     - ":lgtv:"
   location: "lgtv.png"
+- name: bidoofknive
+  strings:
+    - ":knife:"
+  location: "knive.png"
+- name: pensive
+  strings:
+    - ":pensive:"
+  location: "pensive.png"
+- name: rat
+  strings:
+    - ":rat:"
+  location: "rat.png"
+- name: smile
+  strings:
+    - ":D"
+  location: "smile.png"
